@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">This project is a 3-layer Feed Forward Neural Network (FFNN) that trains on the metrics and success of video games in the <a href="https://store.steampowered.com/" target="_blank">Steam</a> library to predict the success of your future game!</h4>
+<h4 align="center">This project is a 3-layer Feed Forward Neural Network (FFNN) that trains on the success and parameters of video games in the <a href="https://store.steampowered.com/" target="_blank">Steam</a> library to predict the success of your future game!</h4>
 
 <p align="center">
   <a href="https://discord.gg/SparkleParty">
