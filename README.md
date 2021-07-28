@@ -39,6 +39,28 @@
 * Help gauge the value of Downloadable Content (DLC)
 * Help choose whether an age restriction will negatively or positively effect the success of your game
 
+## Neural Network
+
+The tensorflow artificial neural network is comprised of 3 dense layers and 1225 total parameters.
+
+<a href="https://i.imgur.com/BVxK2fZ.png"><img src="https://i.imgur.com/BVxK2fZ.png" alt="visual"></a>
+
+```
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+input_1 (InputLayer)         (None, 34)                0
+_________________________________________________________________
+dense (Dense)                (None, 25)                875       
+_________________________________________________________________
+dense_1 (Dense)              (None, 1)                 26        
+=================================================================
+Total params: 1225
+Trainable params: 1225
+Non-trainable params: 0
+_________________________________________________________________
+```
+
 ## How To Use
 
 Below shows how you can call the:
@@ -69,27 +91,6 @@ Here is a list of discords with the bot currently active:
 
 Get the bot to join your discord today! [Click here](https://discord.gg)
 
-## Neural Network
-
-The tensorflow artificial neural network is comprised of 3 dense layers and 1225 total parameters.
-
-<a href="https://i.imgur.com/BVxK2fZ.png"><img src="https://i.imgur.com/BVxK2fZ.png" alt="visual"></a>
-
-```
-_________________________________________________________________
-Layer (type)                 Output Shape              Param #   
-=================================================================
-input_1 (InputLayer)         (None, 34)                0
-_________________________________________________________________
-dense (Dense)                (None, 25)                875       
-_________________________________________________________________
-dense_1 (Dense)              (None, 1)                 26        
-=================================================================
-Total params: 1225
-Trainable params: 1225
-Non-trainable params: 0
-_________________________________________________________________
-```
 
 ## FAQ
 
