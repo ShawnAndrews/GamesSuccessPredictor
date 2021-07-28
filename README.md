@@ -37,9 +37,9 @@
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+Below shows how you can call the:
 
-```bash
+```python
 # Clone this repository
 $ git clone https://github.com/amitmerchant1990/electron-markdownify
 
@@ -67,20 +67,31 @@ Get the bot to join your discord today! [Click here](https://discord.gg)
 
 ## Neural Network
 
-This software uses the following open source packages:
+The tensorflow artificial neural network is comprised of 3 dense layers and 1225 total parameters.
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+<a href="https://i.imgur.com/BVxK2fZ.png"><img src="https://i.imgur.com/BVxK2fZ.png" alt="visual"></a>
+
+```
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+input_1 (InputLayer)         (None, 34)                0
+_________________________________________________________________
+dense (Dense)                (None, 25)                875       
+_________________________________________________________________
+dense_1 (Dense)              (None, 1)                 26        
+=================================================================
+Total params: 1225
+Trainable params: 1225
+Non-trainable params: 0
+_________________________________________________________________
+```
 
 ## FAQ
 
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+**Question:** Where is the training data?
+
+**Answer:** The Steam data was intentionally excluded from the project. To create the training data you'll need to scrap the game and review data from the Steam API, then write the records to a text file in the specified CSV format.
 
 ## License
 
