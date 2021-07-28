@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://accelinfotec.com/wp-content/uploads/2017/05/tech-icons-03-200x200-1.png"><img src="https://accelinfotec.com/wp-content/uploads/2017/05/tech-icons-03-200x200-1.png" alt="logo" width="200"></a>
+  <a href="https://i.imgur.com/rYvoOls.png"><img src="https://i.imgur.com/rYvoOls.png" alt="logo" width="200"></a>
   <br>
   Games Success Predictor (GSP)
   <br>
@@ -21,7 +21,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://i.imgur.com/30RdwKe.gif)
 
 ## Key Features
 
