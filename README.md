@@ -95,7 +95,7 @@ _________________________________________________________________
 
 **Question:** Where is the training data?
 
-**Answer:** The Steam data was intentionally excluded from the project. To create the training data you'll need to scrap the game and review data from the Steam API, then write the records to a text file in the specified CSV format.
+**Answer:** The Steam data was intentionally excluded from the project. To create the training data you'll need to scrape the game and review data from the Steam API, then write the records to a text file in the specified CSV format.
 
 ## License
 
