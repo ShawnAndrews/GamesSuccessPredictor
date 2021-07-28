@@ -11,6 +11,10 @@
 <p align="center">
   <a href="https://discord.gg/SparkleParty">
         <img src="https://img.shields.io/discord/377121551104999424?logo=discord" alt="Discord"></a>
+  <a href="https://github.com/ShawnAndrews/GamesSuccessPredictor" alt="GitHub release">
+        <img src="https://img.shields.io/github/release/shawnandrews/GamesSuccessPredictor.svg" /></a>
+    <a href="https://github.com/ShawnAndrews/GamesSuccessPredictor/blob/master/LICENSE" alt="GitHub license">
+        <img src="https://img.shields.io/github/license/shawnandrews/GamesSuccessPredictor.svg" /></a>
 </p>
 
 <p align="center">
