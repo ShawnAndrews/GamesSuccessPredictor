@@ -37,7 +37,7 @@
 * Help influence the direction of your game in terms of genres
 * Help pick the gameplay modes such as pvp, singleplayer, or multiplayer
 * Help decide the advantage of adding an achievements system
-* Help gauge the value of Downloadable Content (DLC)
+* Help weigh the value of Downloadable Content (DLC)
 * Help choose whether an age restriction will negatively or positively effect the success of your game
 
 ## Neural Network
