@@ -63,20 +63,17 @@ _________________________________________________________________
 
 ## How To Use
 
-Below shows how you can call the:
+Pre-requisite: You must install both Discord.py and Tensorflow for Python. Additional installs needed to allow GPU-accelerated training.
 
 ```python
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+# Train on CSV training data file "TrainingData.txt" and output model with weights to a folder "model"
+$ python train.py csvData.txt model
 
-# Go into the repository
-$ cd electron-markdownify
+# Perform a prediction given a loaded model and game information
+$ python predict.py model free 0 true false true true true december multiplayer mmo controllersupport horror survival
 
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
+# Start Discord bot
+$ python bot.py model DISCORD_BOT_TOKEN_KEY
 ```
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
