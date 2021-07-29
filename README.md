@@ -76,9 +76,6 @@ $ python predict.py model free 0 true false true true true december multiplayer 
 $ python bot.py model DISCORD_BOT_TOKEN_KEY
 ```
 
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
-
 ## Discords
 
 Here is a list of discords with the bot currently active:
