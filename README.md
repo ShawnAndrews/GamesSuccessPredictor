@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  \<a href="#neural-network">Neural Network</a> •
+  <a href="#neural-network">Neural Network</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#discords">Discords</a> •
   <a href="#faq">FAQ</a> •
