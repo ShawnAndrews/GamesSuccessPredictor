@@ -189,7 +189,7 @@ async def on_message(message):
                 if i == "inapppurchases": params['c_inapppurchases'] = 1
                 if i == "controllersupport": params['c_controllersupport'] = 1
                 if i == "pvp": params['c_pvp'] = 1
-            elif i == "adventure" or i == "casual" or i == "indie" or i == "simulation" or i == "action" or i == "multiplayer" or i == "rpg" or i == "racing" or i == "sports" or i == "2d" or i == "puzzle" or i == "racing" or i == "vr" or i == "platformer" or i == "horror" or i == "shooter" or i == "firstperson" or i == "survival" or i == "turnbased" or i == "space":
+            elif i == "adventure" or i == "casual" or i == "indie" or i == "simulation" or i == "action" or i == "multiplayer" or i == "rpg" or i == "racing" or i == "sports" or i == "2d" or i == "puzzle" or i == "racing" or i == "vr" or i == "platformer" or i == "horror" or i == "shooter" or i == "firstperson" or i == "survival" or i == "turnbased" or i == "space" or i == "strategy":
                 if i == "adventure": params['g_adventure'] = 1
                 if i == "casual": params['g_casual'] = 1
                 if i == "indie": params['g_indie'] = 1
